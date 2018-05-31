@@ -114,7 +114,8 @@
 												<ul class="sub-menu">
 													<li><a href="about.html" title="">About Us</a></li>
 													<li><a href="about-overview.html" title="">About Overview</a></li>
-													<li><a href="about-faq.html" title="">About FAQs</a></li><li><a href="about-team.html" title="">About Teams</a></li>
+													<li><a href="about-faq.html" title="">About FAQs</a></li>
+													<li><a href="about-team.html" title="">About Teams</a></li>
 													<li><a href="about-partners.html" title="">About Partners</a></li>
 												</ul><!-- /.sub-menu -->
 											</li>

@@ -65,7 +65,7 @@
 				<div class="row">
 						<div class="col-lg-3 col-sm-6">
 							<div id="logo" class="logo">
-								<a href="index.html" title="">
+								<a href="index.php" title="">
 									<img src="images/logo.png" alt="logo ravita" />
 								</a>
 							</div><!-- /#logo -->
@@ -92,11 +92,11 @@
 								<nav id="mainnav" class="mainnav">
 									<ul class="menu">
 										<li>
-											<a href="index.html" title="">Home  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+											<a href="index.php" title="">Home  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 											<ul class="sub-menu">
 												<li><a href="index.php" title="">Home Classic Header</a></li>
 												<li><a href="index-v2.php" title="">Home Transparent Header</a></li>
-												<li><a href="index-v3.html" title="">Home Widget Header</a></li>
+												<li><a href="index-v3.php" title="">Home Widget Header</a></li>
 												<li><a href="index-animated.php" title="">Home Animated</a></li>
 											</ul><!-- /.sub-menu -->
 										</li>
@@ -125,7 +125,7 @@
 											</ul><!-- /.sub-menu -->
 										</li>
 										<li>
-											<a href="blog.html" title="">News  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+											<a href="blog.php" title="">News  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 											<ul class="sub-menu">
 												<li><a href="new-v1.php" title="">News V1</a></li>
 												<li><a href="new-v2.php" title="">News V2</a></li>
@@ -184,13 +184,13 @@
 								<div class="col-lg-6">
 									<article class="main-post style2">
 										<div class="featured-post">
-											<a  href="new-single.html" title="">
+											<a  href="new-single.php" title="">
 												<img src="images/blog/post2-01.png" alt="image" />
 												<i class="ion-android-search"></i>
 											</a>
 										</div><!-- /.featured-post -->
 										<div class="entry-post-title">
-											<h2 class="post-title"><a href="new-single.html" title="">Big tech will get bigger in 2018, while maller players look for exits</a></h2>
+											<h2 class="post-title"><a href="new-single.php" title="">Big tech will get bigger in 2018, while maller players look for exits</a></h2>
 											<ul class="entry-meta">
 												<li class="date"><a href="#" title="">06 Junuary 2018</a></li>
 												<li class="comment"><a href="#" title="">10  Comments</a></li>
@@ -201,13 +201,13 @@
 								<div class="col-lg-6">
 									<article class="main-post style2">
 										<div class="featured-post">
-											<a  href="new-single.html" title="">
+											<a  href="new-single.php" title="">
 												<img src="images/blog/post2-02.png" alt="image" />
 												<i class="ion-android-search"></i>
 											</a>
 										</div><!-- /.featured-post -->
 										<div class="entry-post-title">
-											<h2 class="post-title"><a href="new-single.html" title="">Cryptocurrency ripple briefly drops more than 11 percent</a></h2>
+											<h2 class="post-title"><a href="new-single.php" title="">Cryptocurrency ripple briefly drops more than 11 percent</a></h2>
 											<ul class="entry-meta">
 												<li class="date"><a href="#" title="">06 Junuary 2018</a></li>
 												<li class="comment"><a href="#" title="">9  Comments</a></li>
@@ -218,13 +218,13 @@
 								<div class="col-lg-6">
 									<article class="main-post style2">
 										<div class="featured-post">
-											<a  href="new-single.html" title="">
+											<a  href="new-single.php" title="">
 												<img src="images/blog/post2-03.png" alt="image" />
 												<i class="ion-android-search"></i>
 											</a>
 										</div><!-- /.featured-post -->
 										<div class="entry-post-title">
-											<h2 class="post-title"><a href="new-single.html" title="">Market-Friendly Education for Jordan’s Youth Earns High Marks</a></h2>
+											<h2 class="post-title"><a href="new-single.php" title="">Market-Friendly Education for Jordan’s Youth Earns High Marks</a></h2>
 											<ul class="entry-meta">
 												<li class="date"><a href="#" title="">06 Junuary 2018</a></li>
 												<li class="comment"><a href="#" title="">10  Comments</a></li>
@@ -235,13 +235,13 @@
 								<div class="col-lg-6">
 									<article class="main-post style2">
 										<div class="featured-post">
-											<a  href="new-single.html" title="">
+											<a  href="new-single.php" title="">
 												<img src="images/blog/post2-04.png" alt="image" />
 												<i class="ion-android-search"></i>
 											</a>
 										</div><!-- /.featured-post -->
 										<div class="entry-post-title">
-											<h2 class="post-title"><a href="new-single.html" title="">In the Philippines, A Blueprint for Low-Income Homes Goes Green</a></h2>
+											<h2 class="post-title"><a href="new-single.php" title="">In the Philippines, A Blueprint for Low-Income Homes Goes Green</a></h2>
 											<ul class="entry-meta">
 												<li class="date"><a href="#" title="">06 Junuary 2018</a></li>
 												<li class="comment"><a href="#" title="">9  Comments</a></li>
@@ -252,13 +252,13 @@
 								<div class="col-lg-6">
 									<article class="main-post style2">
 										<div class="featured-post">
-											<a  href="new-single.html" title="">
+											<a  href="new-single.php" title="">
 												<img src="images/blog/post2-05.png" alt="image" />
 												<i class="ion-android-search"></i>
 											</a>
 										</div><!-- /.featured-post -->
 										<div class="entry-post-title">
-											<h2 class="post-title"><a href="new-single.html" title="">Mengistu Alemayehu on the Way Forward for IFC in India</a></h2>
+											<h2 class="post-title"><a href="new-single.php" title="">Mengistu Alemayehu on the Way Forward for IFC in India</a></h2>
 											<ul class="entry-meta">
 												<li class="date"><a href="#" title="">06 Junuary 2018</a></li>
 												<li class="comment"><a href="#" title="">10  Comments</a></li>
@@ -269,13 +269,13 @@
 								<div class="col-lg-6">
 									<article class="main-post style2">
 										<div class="featured-post">
-											<a  href="new-single.html" title="">
+											<a  href="new-single.php" title="">
 												<img src="images/blog/post2-06.png" alt="image" />
 												<i class="ion-android-search"></i>
 											</a>
 										</div><!-- /.featured-post -->
 										<div class="entry-post-title">
-											<h2 class="post-title"><a href="new-single.html" title="">A Pharmacy Chain Offers Kenyans Modern, Convenient Care</a></h2>
+											<h2 class="post-title"><a href="new-single.php" title="">A Pharmacy Chain Offers Kenyans Modern, Convenient Care</a></h2>
 											<ul class="entry-meta">
 												<li class="date"><a href="#" title="">06 Junuary 2018</a></li>
 												<li class="comment"><a href="#" title="">9  Comments</a></li>
@@ -286,13 +286,13 @@
 								<div class="col-lg-6">
 									<article class="main-post style2">
 										<div class="featured-post">
-											<a  href="new-single.html" title="">
+											<a  href="new-single.php" title="">
 												<img src="images/blog/post2-07.png" alt="image" />
 												<i class="ion-android-search"></i>
 											</a>
 										</div><!-- /.featured-post -->
 										<div class="entry-post-title">
-											<h2 class="post-title"><a href="new-single.html" title="">Better-Managed Hospitals in Brazil Offer Remedy to Thousands</a></h2>
+											<h2 class="post-title"><a href="new-single.php" title="">Better-Managed Hospitals in Brazil Offer Remedy to Thousands</a></h2>
 											<ul class="entry-meta">
 												<li class="date"><a href="#" title="">06 Junuary 2018</a></li>
 												<li class="comment"><a href="#" title="">10  Comments</a></li>
@@ -303,13 +303,13 @@
 								<div class="col-lg-6">
 									<article class="main-post style2">
 										<div class="featured-post">
-											<a  href="new-single.html" title="">
+											<a  href="new-single.php" title="">
 												<img src="images/blog/post2-08.png" alt="image" />
 												<i class="ion-android-search"></i>
 											</a>
 										</div><!-- /.featured-post -->
 										<div class="entry-post-title">
-											<h2 class="post-title"><a href="new-single.html" title="">Ruchira Shukla on Venture Capital Outlook for 2018, Valuations and More</a></h2>
+											<h2 class="post-title"><a href="new-single.php" title="">Ruchira Shukla on Venture Capital Outlook for 2018, Valuations and More</a></h2>
 											<ul class="entry-meta">
 												<li class="date"><a href="#" title="">06 Junuary 2018</a></li>
 												<li class="comment"><a href="#" title="">9  Comments</a></li>
@@ -407,7 +407,7 @@
 					<div class="row widget-box">
 						<div class="col-lg-3 reponsive-mb30">
 							<div id="logo-footer" class="logo-footer">
-								<a href="index.html"><img src="images/logo.png" alt="logo ravita"></a>
+								<a href="index.php"><img src="images/logo.png" alt="logo ravita"></a>
 							</div>
 							<div class="widget widget-text">
 								<p>We have over 15 years of experien ble to help you 24 hours a day, 

@@ -65,7 +65,7 @@
 					<div class="row">
 							<div class="col-lg-3 col-sm-6">
 								<div id="logo" class="logo">
-									<a href="index.html" title="">
+									<a href="index.php" title="">
 										<img src="images/logo.png" alt="logo ravita" />
 									</a>
 								</div><!-- /#logo -->
@@ -92,11 +92,11 @@
 									<nav id="mainnav" class="mainnav">
 										<ul class="menu">
 											<li>
-                                            <a href="index.html" title="">Home  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                            <a href="index.php" title="">Home  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                             <ul class="sub-menu">
                                                 <li><a href="index.php" title="">Home Classic Header</a></li>
                                                 <li><a href="index-v2.php" title="">Home Transparent Header</a></li>
-                                                <li><a href="index-v3.html" title="">Home Widget Header</a></li>
+                                                <li><a href="index-v3.php" title="">Home Widget Header</a></li>
                                                 <li><a href="index-animated.php" title="">Home Animated</a></li>
                                             </ul><!-- /.sub-menu -->
                                         </li>
@@ -126,7 +126,7 @@
 												</ul><!-- /.sub-menu -->
 											</li>
 											<li>
-												<a href="blog.html" title="">News  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+												<a href="blog.php" title="">News  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 												<ul class="sub-menu">
 													<li><a href="new-v1.php" title="">News V1</a></li>
 													<li><a href="new-v2.php" title="">News V2</a></li>
@@ -303,7 +303,7 @@
 						<div class="row widget-box">
 							<div class="col-lg-3 reponsive-mb30">
 								<div id="logo-footer" class="logo-footer">
-									<a href="index.html"><img src="images/logo.png" alt="logo ravita"></a>
+									<a href="index.php"><img src="images/logo.png" alt="logo ravita"></a>
 								</div>
 								<div class="widget widget-text">
 									<p>We have over 15 years of experien ble to help you 24 hours a day, 

@@ -70,7 +70,7 @@
                 <div class="row">
                         <div class="col-lg-3 col-sm-6">
                             <div id="logo" class="logo">
-                                <a href="index.html" title="">
+                                <a href="index.php" title="">
                                     <img src="images/logo.png" alt="logo ravita" />
                                 </a>
                             </div><!-- /#logo -->
@@ -97,11 +97,11 @@
                                 <nav id="mainnav" class="mainnav">
                                     <ul class="menu">
                                         <li>
-                                            <a href="index.html" title="">Home  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                            <a href="index.php" title="">Home  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                             <ul class="sub-menu">
                                                 <li><a href="index.php" title="">Home Classic Header</a></li>
                                                 <li><a href="index-v2.php" title="">Home Transparent Header</a></li>
-                                                <li><a href="index-v3.html" title="">Home Widget Header</a></li>
+                                                <li><a href="index-v3.php" title="">Home Widget Header</a></li>
                                                 <li><a href="index-animated.php" title="">Home Animated</a></li>
                                             </ul><!-- /.sub-menu -->
                                         </li>
@@ -130,7 +130,7 @@
                                             </ul><!-- /.sub-menu -->
                                         </li>
                                         <li>
-                                            <a href="blog.html" title="">News  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                            <a href="blog.php" title="">News  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                             <ul class="sub-menu">
                                                 <li><a href="new-v1.php" title="">News V1</a></li>
                                                 <li><a href="new-v2.php" title="">News V2</a></li>
@@ -720,12 +720,12 @@
                     <div class="blog-shortcode">
                         <article class="main-post effect-animation" data-animation="fadeInUp" data-animation-delay="0.2s" data-animation-offset="75%">
                             <div class="featured-post">
-                                <a href="new-single.html" title="">
+                                <a href="new-single.php" title="">
                                     <img src="images/blog/s1.jpg" alt="image">
                                 </a>
                             </div><!-- /.featured-post -->
                             <div class="entry-post-title">
-                                <h2 class="post-title"><a href="new-single.html" title="">Big tech will get bigger in 2018, while maller players look for exits</a></h2>
+                                <h2 class="post-title"><a href="new-single.php" title="">Big tech will get bigger in 2018, while maller players look for exits</a></h2>
                                 <ul class="entry-meta">
                                     <li class="date"><a href="#" title="">06 Junuary 2018</a></li>
                                     <li class="comment"><a href="#" title="">10  Comments</a></li>
@@ -735,12 +735,12 @@
 
                         <article class="main-post effect-animation" data-animation="fadeInUp" data-animation-delay="0.2s" data-animation-offset="75%">
                             <div class="featured-post">
-                                <a href="new-single.html" title="">
+                                <a href="new-single.php" title="">
                                     <img src="images/blog/s2.jpg" alt="image">
                                 </a>
                             </div><!-- /.featured-post -->
                             <div class="entry-post-title">
-                                <h2 class="post-title"><a href="new-single.html" title="">Cryptocurrency ripple briefly drops more than 11 percent</a></h2>
+                                <h2 class="post-title"><a href="new-single.php" title="">Cryptocurrency ripple briefly drops more than 11 percent</a></h2>
                                 <ul class="entry-meta">
                                     <li class="date"><a href="#" title="">06 Junuary 2018</a></li>
                                     <li class="comment"><a href="#" title="">9  Comments</a></li>
@@ -750,12 +750,12 @@
 
                         <article class="main-post effect-animation" data-animation="fadeInUp" data-animation-delay="0.2s" data-animation-offset="75%">
                             <div class="featured-post">
-                                <a href="new-single.html" title="">
+                                <a href="new-single.php" title="">
                                     <img src="images/blog/s3.jpg" alt="image">
                                 </a>
                             </div><!-- /.featured-post -->
                             <div class="entry-post-title">
-                                <h2 class="post-title"><a href="new-single.html" title="">Acorda Therapeutics reportedly exploring potential sale</a></h2>
+                                <h2 class="post-title"><a href="new-single.php" title="">Acorda Therapeutics reportedly exploring potential sale</a></h2>
                                 <ul class="entry-meta">
                                     <li class="date"><a href="#" title="">06 Junuary 2018</a></li>
                                     <li class="comment"><a href="#" title="">12  Comments</a></li>
@@ -774,7 +774,7 @@
                     <div class="row widget-box">
                         <div class="col-lg-3 reponsive-mb30 effect-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
                             <div id="logo-footer" class="logo-footer">
-                                <a href="index.html"><img src="images/logo.png" alt="logo ravita"></a>
+                                <a href="index.php"><img src="images/logo.png" alt="logo ravita"></a>
                             </div>
                             <div class="widget widget-text">
                                 <p>We have over 15 years of experien ble to help you 24 hours a day, 

@@ -95,58 +95,58 @@
 											<li>
                                             <a href="index.html" title="">Home  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                             <ul class="sub-menu">
-                                                <li><a href="index.html" title="">Home Classic Header</a></li>
-                                                <li><a href="index-v2.html" title="">Home Transparent Header</a></li>
+                                                <li><a href="index.php" title="">Home Classic Header</a></li>
+                                                <li><a href="index-v2.php" title="">Home Transparent Header</a></li>
                                                 <li><a href="index-v3.html" title="">Home Widget Header</a></li>
-                                                <li><a href="index-animated.html" title="">Home Animated</a></li>
+                                                <li><a href="index-animated.php" title="">Home Animated</a></li>
                                             </ul><!-- /.sub-menu -->
                                         </li>
 											<li>
-												<a href="about.html" title="">About us <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+												<a href="about.php" title="">About us <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 												<ul class="sub-menu">
-													<li><a href="about.html" title="">About Us</a></li>
-													<li><a href="about-overview.html" title="">About Overview</a></li>
-													<li><a href="about-faq.html" title="">About FAQs</a></li>
-													<li><a href="about-team.html" title="">About Teams</a></li>
-													<li><a href="about-partners.html" title="">About Partners</a></li>
+													<li><a href="about.php" title="">About Us</a></li>
+													<li><a href="about-overview.php" title="">About Overview</a></li>
+													<li><a href="about-faq.php" title="">About FAQs</a></li>
+													<li><a href="about-team.php" title="">About Teams</a></li>
+													<li><a href="about-partners.php" title="">About Partners</a></li>
 												</ul><!-- /.sub-menu -->
 											</li>
 											<li>
-												<a href="services-v1.html" title="">Services  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+												<a href="services-v1.php" title="">Services  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 												<ul class="sub-menu">
-													<li><a href="services-v1.html" title="">Services V1</a></li>
-													<li><a href="services-v2.html" title="">Services V2</a></li>
+													<li><a href="services-v1.php" title="">Services V1</a></li>
+													<li><a href="services-v2.php" title="">Services V2</a></li>
 												</ul><!-- /.sub-menu -->
 											</li>
 											<li>
-												<a href="case-v1.html" title="">cases  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+												<a href="case-v1.php" title="">cases  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 												<ul class="sub-menu">
-													<li><a href="case-v1.html" title="">Cases V1</a></li>
-													<li><a href="case-v2.html" title="">Cases V2</a></li>
-	                                                <li><a href="case-single.html" title="">Cases Single</a></li>
+													<li><a href="case-v1.php" title="">Cases V1</a></li>
+													<li><a href="case-v2.php" title="">Cases V2</a></li>
+	                                                <li><a href="case-single.php" title="">Cases Single</a></li>
 												</ul><!-- /.sub-menu -->
 											</li>
 											<li>
 												<a href="blog.html" title="">News  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 												<ul class="sub-menu">
-													<li><a href="new-v1.html" title="">News V1</a></li>
-													<li><a href="new-v2.html" title="">News V2</a></li>
-													<li><a href="new-single.html" title="">News Single</a></li>
+													<li><a href="new-v1.php" title="">News V1</a></li>
+													<li><a href="new-v2.php" title="">News V2</a></li>
+													<li><a href="new-single.php" title="">News Single</a></li>
 												</ul><!-- /.sub-menu -->
 											</li>
 
 											<li>
 												<a href="#" title="">pages  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 												<ul class="sub-menu">
-													<li><a href="page-pricing.html" title="">Page Pricing</a></li>
+													<li><a href="page-pricing.php" title="">Page Pricing</a></li>
 												</ul><!-- /.sub-menu -->
 											</li>
 
 											<li>
-												<a href="contact-v1.html" title="">Contact us <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+												<a href="contact-v1.php" title="">Contact us <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 												<ul class="sub-menu">
-													<li><a href="contact-v1.html" title="">Contact 01</a></li>
-													<li><a href="contact-v2.html" title="">Contact 02</a></li>
+													<li><a href="contact-v1.php" title="">Contact 01</a></li>
+													<li><a href="contact-v2.php" title="">Contact 02</a></li>
 												</ul><!-- /.sub-menu -->
 											</li>
 										</ul><!-- /.menu -->
@@ -206,7 +206,7 @@
 					                				<img src="images/portfolio/10.jpg" alt="img">
 					                			</div>
 					                			<div class="text">
-					                				<h3 class="title-post"><a href="case-single.html">Why Do I Need To Use Financial ?</a></h3>
+					                				<h3 class="title-post"><a href="case-single.php">Why Do I Need To Use Financial ?</a></h3>
 					                				<div class="category-post">
 														<a href="#" title="">Finance Business</a>
 													</div>
@@ -224,7 +224,7 @@
 					                				<img src="images/portfolio/10.jpg" alt="img">
 					                			</div>
 					                			<div class="text">
-					                				<h3 class="title-post"><a href="case-single.html">Business Solutions</a></h3>
+					                				<h3 class="title-post"><a href="case-single.php">Business Solutions</a></h3>
 					                				<div class="category-post">
 														<a href="#" title="">Finance Business</a>
 													</div>
@@ -241,7 +241,7 @@
 					                				<img src="images/portfolio/10.jpg" alt="img">
 					                			</div>
 					                			<div class="text">
-					                				<h3 class="title-post"><a href="case-single.html">Why Do I Need To Use Financial ?</a></h3>
+					                				<h3 class="title-post"><a href="case-single.php">Why Do I Need To Use Financial ?</a></h3>
 					                				<div class="category-post">
 														<a href="#" title="">Finance Business</a>
 													</div>
@@ -259,7 +259,7 @@
 					                				<img src="images/portfolio/10.jpg" alt="img">
 					                			</div>
 					                			<div class="text">
-					                				<h3 class="title-post"><a href="case-single.html">Business Solutions</a></h3>
+					                				<h3 class="title-post"><a href="case-single.php">Business Solutions</a></h3>
 					                				<div class="category-post">
 														<a href="#" title="">Finance Business</a>
 													</div>
@@ -277,7 +277,7 @@
 					                				<img src="images/portfolio/10.jpg" alt="img">
 					                			</div>
 					                			<div class="text">
-					                				<h3 class="title-post"><a href="case-single.html">Why Do I Need To Use Financial ?</a></h3>
+					                				<h3 class="title-post"><a href="case-single.php">Why Do I Need To Use Financial ?</a></h3>
 					                				<div class="category-post">
 														<a href="#" title="">Finance Business</a>
 													</div>
@@ -295,7 +295,7 @@
 					                				<img src="images/portfolio/10.jpg" alt="img">
 					                			</div>
 					                			<div class="text">
-					                				<h3 class="title-post"><a href="case-single.html">Business Solutions</a></h3>
+					                				<h3 class="title-post"><a href="case-single.php">Business Solutions</a></h3>
 					                				<div class="category-post">
 														<a href="#" title="">Finance Business</a>
 													</div>
@@ -313,7 +313,7 @@
 					                				<img src="images/portfolio/10.jpg" alt="img">
 					                			</div>
 					                			<div class="text">
-					                				<h3 class="title-post"><a href="case-single.html">Why Do I Need To Use Financial ?</a></h3>
+					                				<h3 class="title-post"><a href="case-single.php">Why Do I Need To Use Financial ?</a></h3>
 					                				<div class="category-post">
 														<a href="#" title="">Finance Business</a>
 													</div>
@@ -331,7 +331,7 @@
 					                				<img src="images/portfolio/10.jpg" alt="img">
 					                			</div>
 					                			<div class="text">
-					                				<h3 class="title-post"><a href="case-single.html">Business Solutions</a></h3>
+					                				<h3 class="title-post"><a href="case-single.php">Business Solutions</a></h3>
 					                				<div class="category-post">
 														<a href="#" title="">Finance Business</a>
 													</div>
@@ -349,7 +349,7 @@
 					                				<img src="images/portfolio/10.jpg" alt="img">
 					                			</div>
 					                			<div class="text">
-					                				<h3 class="title-post"><a href="case-single.html">Why Do I Need To Use Financial ?</a></h3>
+					                				<h3 class="title-post"><a href="case-single.php">Why Do I Need To Use Financial ?</a></h3>
 					                				<div class="category-post">
 														<a href="#" title="">Finance Business</a>
 													</div>

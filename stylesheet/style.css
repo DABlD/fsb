@@ -193,7 +193,16 @@ ul, ol {
 
 img {
 	max-width: 100%;
-	height: auto;		
+	height: auto;
+}
+
+.fsb-logo {
+	height: 50px;
+}
+
+.fsb-logo-font {
+	font-size: 20px;
+    color: #2f5596;
 }
 
 b, strong {

@@ -72,8 +72,9 @@
                 <div class="row">
                         <div class="col-lg-3 col-sm-6">
                             <div id="logo" class="logo">
-                                <a href="index.php" title="">
-                                    <img src="images/logo.png" alt="logo ravita" />
+                                <a href="index.php" class="fsb-logo-font" title="">
+                                    <img src="images/fsb/fsb_logo.jpg" class="fsb-logo" alt="FSB Logo" />
+                                    FSB Consultants
                                 </a>
                             </div><!-- /#logo -->
                         </div><!-- /.col-md-3 -->

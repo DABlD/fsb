@@ -42,19 +42,19 @@
 		<div class="top">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-6 reponsive-onehalf">
-						<ul class="flat-infomation">
-							<li class="address">PO Box 16122 Collins Street West Victoria 8007 Australia</li>
-							<li class="phone"><a href="+61383766284" title="phone">+(61) 3 8376 6284</a></li>
-						</ul><!-- /flat-infomation -->
+					<div class="col-lg-10 reponsive-onehalf">
+					    <ul class="flat-infomation">
+					        <li class="address">Unit 45 The District Dasmariñas Ayala Mall, Dasmariñas  City, Cavite</li>
+					        <li class="phone"><a title="phone">T: +63 46 416 6864 (PLDT) or +63 46 540 6162 (Globe) M: 0920-9019188 (Smart)</a></li>
+					    </ul><!-- /flat-infomation -->
 					</div>
-					<div class="col-lg-6 reponsive-onehalf">
-						<ul class="social-links text-right">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                            <li class="google"><a href="#"><i class="fa fa-rss"></i></a></li>
-                        </ul>
+					<div class="col-lg-2 reponsive-onehalf">
+					    <ul class="social-links text-right">
+					        <li><a href="https://www.facebook.com/fsbci2017/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+					        <!-- <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+					        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+					        <li class="google"><a href="#"><i class="fa fa-rss"></i></a></li> -->
+					    </ul>
 					</div>
 				</div>
 			</div>

@@ -1,5 +1,7 @@
     <?php include('includes/header.php') ?>
 
+    <link rel="icon" type="img/ico" href="images/fsb/fsb_logo.jpg">
+
 	<meta name="author" content="themsflat.com">
 
 	<!-- Mobile Specific Metas -->
@@ -23,7 +25,7 @@
 	<!-- Favicon and touch icons  -->
     <link href="icon/apple-touch-icon-48-precomposed.png" rel="apple-touch-icon-precomposed">
     <link href="icon/apple-touch-icon-32-precomposed.png" rel="apple-touch-icon-precomposed">
-    <link href="icon/favicon.png" rel="shortcut icon">
+    <!-- <link href="icon/favicon.png" rel="shortcut icon"> -->
 
 </head>
 	<body>

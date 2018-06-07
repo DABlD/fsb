@@ -962,8 +962,8 @@
                                     <li><a href="index.php" title="">Home</a></li>
                                     <li><a href="about.php" title="">About Us</a></li>
                                     <li><a href="#testimonials" title="">Testimonials</a></li>
-                                    <li><a href="#news" title="">News</a></li>
                                     <li><a href="services-v1.php" title="">Services</a></li>
+                                    <li><a href="new-v1.php" title="">News</a></li>
                                     <!-- <li><a href="#" title="">Advertise</a></li> -->
                                     <!-- <li><a href="#" title="">Conditions</a></li> -->
                                     <!-- <li><a href="#" title="">Privacy Policy</a></li> -->

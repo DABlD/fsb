@@ -664,7 +664,7 @@
                                     <span class="numb-count" data-from="0" data-to="1598" data-speed="1000" data-waypoint-active="yes">1598</span><span>+</span>
                                 </div>
                             </div>
-                            <p class="name">CLient Happy</p>
+                            <p class="name">Client Happy</p>
                         </div><!-- /.counter -->
                     </div><!-- /.col-lg-2 -->
 
@@ -784,7 +784,7 @@
 			
 		</section><!-- /.flat-owl-stage -->
 
-		<section class="flat-row flat-news">
+		<section class="flat-row flat-news" id="news">
 			<div class="container">
 
 				<div class="row">
@@ -847,7 +847,7 @@
 			</div><!-- /.container -->
 		</section><!-- /.flat-news -->
 
-        <section class="flat-row testimonial-partners bg-theme">
+        <section class="flat-row testimonial-partners bg-theme" id="testimonials">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
@@ -930,48 +930,9 @@
             </div>
         </section>
 
-        <section class="flat-row section-callback">
-            <div class="container">
-                <div class="row">
-
-                    <div class="col-lg-6">
-                        <div class="title-section left">
-                            <h2>GET A CALL BACK</h2>
-                            <p class="sub-title-section">If you need to speak to us about a general query fill in the form below and we will call you back within the same working day.</p>
-                        </div><!-- /.title-section -->
-                    </div><!-- /.col-md-6 -->
-
-                    <div class="col-lg-6">
-                        <div class="flat-callback-form">
-                            <form id="contactform" method="post" action="./contact/contact-process3.php" novalidate="novalidate" >
-                                <div class="flat-field">
-                                    <div class="field-one-half">
-                                        <select name="discuss">
-                                           <option value="I would like to discuss:">I would like to discuss:</option>
-                                           <option value="I would like to discuss:">I would like to discuss:</option>
-                                           <option value="I would like to discuss:">I would like to discuss:</option>
-                                        </select>
-                                    </div><!-- /.field-one-half -->
-                                    <div class="field-one-half field-email">
-                                        <input type="text" id="email" value="" name="email" placeholder="You Email" required="required">
-                                    </div><!-- /.field-one-half -->
-                                    <div class="clearfix"></div>
-                                </div>
-                                <div class="flat-field">
-                                    <div class="field-one-half field-phone">
-                                        <input type="text" id="phone" value="" name="phone" placeholder="You phone number" required="required">
-                                    </div>
-                                    <div class="field-one-half field-submit">
-                                        <button type="submit" name="submit" class="button-submit-field flat-button">Submit Now</button>
-                                    </div>
-                                </div><!-- /.flat-field -->
-                            </form><!-- /.form -->
-                        </div><!-- /.callback-form -->
-                    </div><!-- /.col-md-8 -->
-
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.flat-callback -->
+        <?php 
+            // include('callback.php'); 
+        ?>
 
 		<footer id="footer">
             <div class="footer-widgets">
@@ -979,15 +940,18 @@
                     <div class="row widget-box">
                         <div class="col-lg-3 reponsive-mb30">
                             <div id="logo-footer" class="logo-footer">
-                                <a href="index.php"><img src="images/logo.png" alt="logo ravita"></a>
+                                <a href="index.php" class="fsb-logo-font" title="">
+                                    <img src="images/fsb/fsb_logo.jpg" class="fsb-logo" alt="FSB Logo" />
+                                    FSB Consultants
+                                </a>
                             </div>
                             <div class="widget widget-text">
                                 <p>We have over 15 years of experien ble to help you 24 hours a day, 
                                 </p>
                                 <ul class="flat-infomation">
-                                    <li class="address">PO Box 16122 Collins Street West Victoria 8007 Australia</li>
-                                    <li class="phone"><a href="+61383766284" title="phone">(+61) ) 3 8376 6284</a></li>
-                                    <li class="email"><a href="#" title="email"> support@themesflat.com</a></li>
+                                    <li class="address">Unit 45 The District Dasmariñas Ayala Mall, Dasmariñas  City, Cavite</li>
+                                    <li class="phone"><a title="phone">T: +63 46 416 6864 (PLDT) <br>&nbsp;&nbsp;&nbsp;&nbsp; +63 46 540 6162 (Globe) <br> M: 0920-9019188 (Smart)</a></li>
+                                    <li class="email"><a href="#" title="email"> fsb_accountserv@yahoo.com</a></li>
                                 </ul>   
                             </div><!-- /.widget-text -->
                         </div><!-- /.col-md-3 -->
@@ -995,20 +959,24 @@
                             <div class="widget widget-services">
                                 <h3 class="widget-title">Popular tags</h3>
                                 <ul class="one-half first">
-                                    <li><a href="#" title="">About Us</a></li>
-                                    <li><a href="#" title="">Advertise</a></li>
-                                    <li><a href="#" title="">Conditions</a></li>
-                                    <li><a href="#" title="">Privacy Policy</a></li>
-                                    <li><a href="#" title="">Careers</a></li>
-                                    <li><a href="#" title="">Shop</a></li>
+                                    <li><a href="index.php" title="">Home</a></li>
+                                    <li><a href="about.php" title="">About Us</a></li>
+                                    <li><a href="#testimonials" title="">Testimonials</a></li>
+                                    <li><a href="#news" title="">News</a></li>
+                                    <li><a href="services-v1.php" title="">Services</a></li>
+                                    <!-- <li><a href="#" title="">Advertise</a></li> -->
+                                    <!-- <li><a href="#" title="">Conditions</a></li> -->
+                                    <!-- <li><a href="#" title="">Privacy Policy</a></li> -->
+                                    <!-- <li><a href="#" title="">Careers</a></li> -->
+                                    <!-- <li><a href="#" title="">Shop</a></li> -->
                                 </ul><!-- /.one-half -->
                                 <ul class="one-half">
-                                    <li><a href="#" title="">Home</a></li>
-                                    <li><a href="#" title="">Testimonials</a></li>
-                                    <li><a href="#" title="">News</a></li>
-                                    <li><a href="#" title="">Services</a></li>
-                                    <li><a href="#" title="">Corporate Client</a></li>
-                                    <li><a href="#" title="">Contact Us</a></li>
+                                    <!-- <li><a href="#" title="">Home</a></li> -->
+                                    <!-- <li><a href="#" title="">Testimonials</a></li> -->
+                                    <!-- <li><a href="#" title="">News</a></li> -->
+                                    <!-- <li><a href="#" title="">Services</a></li> -->
+                                    <!-- <li><a href="#" title="">Corporate Client</a></li> -->
+                                    <!-- <li><a href="#" title="">Contact Us</a></li> -->
                                 </ul><!-- /.one-half -->
                             </div><!-- /.widget-services -->
                         </div><!-- /.col-lg-3 -->

@@ -479,12 +479,12 @@
                     <div class="col-lg-4 col-sm-12">
                         <div class="iconbox clearfix">
                             <div class="box-icon">
-                                <i class="ion-clipboard"></i>
+                                <i class="ion-cloud"></i>
                             </div>
                             <div class="box-text">
-                                <h5 class="box-title"><a href="#" title="">Accumulation</a></h5>  
+                                <h5 class="box-title"><a href="#" title="">Cloud (Online) Accounting & Bookkeeping</a></h5>  
                                 <div class="box-content">
-                                     Donec lacinia mi rutrum sagittis consequat. Donec sagittis, sodales sollicitudin todo avet
+                                     Our Cloud Accounting and Bookkeeping team will provide all forms of accounting & bookkeeping services
                                 </div><!-- /.box-content --> 
                             </div>
                         </div>
@@ -493,12 +493,12 @@
                     <div class="col-lg-4 col-sm-12">
                         <div class="iconbox clearfix">
                             <div class="box-icon">
-                                <i class="ion-arrow-graph-up-right"></i>
+                                <i class="ion-android-search"></i>
                             </div>
                             <div class="box-text">
-                                <h5 class="box-title"><a href="#" title="">Mutual Funds</a></h5>  
+                                <h5 class="box-title"><a href="#" title="">External and Internal Audit</a></h5>  
                                 <div class="box-content">
-                                     Donec lacinia mi rutrum sagittis consequat. Donec sagittis, sodales sollicitudin todo avet
+                                     An objective examination and evaluation of the financial statements of an organization to make sure that the records are a fair and accurate representation of the transactions they claim to represent
                                 </div><!-- /.box-content --> 
                             </div>
                         </div>
@@ -507,12 +507,12 @@
                     <div class="col-lg-4 col-sm-12">
                         <div class="iconbox clearfix">
                             <div class="box-icon">
-                                <i class="ion-android-alarm-clock"></i>
+                                <i class="ion-ios-lightbulb"></i>
                             </div>
                             <div class="box-text">
-                                <h5 class="box-title"><a href="#" title="">Risk Management</a></h5>  
+                                <h5 class="box-title"><a href="#" title="">Business Advisory</a></h5>  
                                 <div class="box-content">
-                                     Donec lacinia mi rutrum sagittis consequat. Donec sagittis, sodales sollicitudin todo avet
+                                     Our Business Advisory offers tailored, innovative and comprehensive solutions for specific client business needs. Our aim is to deliver focused value and beneficial change to your business
                                 </div><!-- /.box-content --> 
                             </div>
                         </div>
@@ -530,12 +530,12 @@
                     <div class="col-lg-4 col-sm-12">
                         <div class="iconbox clearfix">
                             <div class="box-icon">
-                                <i class="ion-wand"></i>
+                                <i class="ion-cash"></i>
                             </div>
                             <div class="box-text">
-                                <h5 class="box-title"><a href="#" title="">Estate Planning</a></h5>  
+                                <h5 class="box-title"><a href="#" title="">Tax Preparation</a></h5>  
                                 <div class="box-content">
-                                     Donec lacinia mi rutrum sagittis consequat. Donec sagittis, sodales sollicitudin todo avet
+                                     Our team provide solution to wide array of tax related problems including preparation of monthly, quarterly or annual tax returns and submitting them in BIR
                                 </div><!-- /.box-content --> 
                             </div>
                         </div>
@@ -544,12 +544,12 @@
                     <div class="col-lg-4 col-sm-12">
                         <div class="iconbox clearfix">
                             <div class="box-icon">
-                                <i class="ion-easel"></i>
+                                <i class="ion-android-create"></i>
                             </div>
                             <div class="box-text">
-                                <h5 class="box-title"><a href="#" title="">Retirement Planning</a></h5>  
+                                <h5 class="box-title"><a href="#" title="">Business Registration (New / Renewal)</a></h5>  
                                 <div class="box-content">
-                                     Donec lacinia mi rutrum sagittis consequat. Donec sagittis, sodales sollicitudin todo avet
+                                     Our business registration service includes everything from getting your trade names, barangay permits, mayors permits, registration in BIR and SEC. Including SSS, HDMF, & PHIC
                                 </div><!-- /.box-content --> 
                             </div>
                         </div>
@@ -558,12 +558,84 @@
                     <div class="col-lg-4 col-sm-12">
                         <div class="iconbox clearfix">
                             <div class="box-icon">
-                                <i class="ion-android-globe"></i>
+                                <i class="ion-close-circled"></i>
                             </div>
                             <div class="box-text">
-                                <h5 class="box-title"><a href="#" title="">Business Planning</a></h5>  
+                                <h5 class="box-title"><a href="#" title="">Business Closure</a></h5>  
                                 <div class="box-content">
-                                     Donec lacinia mi rutrum sagittis consequat. Donec sagittis, sodales sollicitudin todo avet
+                                     We provide service to help you on closing your business on various government agencies
+                                </div><!-- /.box-content --> 
+                            </div>
+                        </div>
+                    </div><!-- /.col-md-4 col-sm-12 -->
+                </div><!-- /.row -->
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="dividers h57"></div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-4 col-sm-12">
+                        <div class="iconbox clearfix">
+                            <div class="box-icon">
+                                <i class="ion-android-cloud-done"></i>
+                            </div>
+                            <div class="box-text">
+                                <h5 class="box-title"><a href="#" title="">Cloud-Based Accounting Software Training</a></h5>  
+                                <div class="box-content">
+                                     We offer Software training with the help of our Certified Pro Advisors which can help you boost your accounting skills in your own business. (Quickbooks Online & Xero)
+                                </div><!-- /.box-content --> 
+                            </div>
+                        </div>
+                    </div><!-- /.col-md-4 col-sm-12 -->
+
+                    <div class="col-lg-4 col-sm-12">
+                        <div class="iconbox clearfix">
+                            <div class="box-icon">
+                                <img src="icon/ios-school.svg">
+                            </div>
+                            <div class="box-text">
+                                <h5 class="box-title"><a href="#" title="">Business Trainings & Seminars</a></h5>  
+                                <div class="box-content">
+                                     We offer accounting trainings for non-accountants for them to better understand how accounting works
+                                </div><!-- /.box-content --> 
+                            </div>
+                        </div>
+                    </div><!-- /.col-md-4 col-sm-12 -->
+
+                    <div class="col-lg-4 col-sm-12">
+                        <div class="iconbox clearfix">
+                            <div class="box-icon">
+                                <i class="ion-ios-paper"></i>
+                            </div>
+                            <div class="box-text">
+                                <h5 class="box-title"><a href="#" title="">Business Plan Preparation</a></h5>  
+                                <div class="box-content">
+                                     Business Plan Preparation. Feasibility Study
+                                </div><!-- /.box-content --> 
+                            </div>
+                        </div>
+                    </div><!-- /.col-md-4 col-sm-12 -->
+                </div><!-- /.row -->
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="dividers h57"></div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-4 col-sm-12 offset-lg-4">
+                        <div class="iconbox clearfix">
+                            <div class="box-icon">
+                                <i class="ion-ios-people"></i>
+                            </div>
+                            <div class="box-text">
+                                <h5 class="box-title"><a href="#" title="">Staff Augmentation</a></h5>  
+                                <div class="box-content">
+                                     Outsourcing
                                 </div><!-- /.box-content --> 
                             </div>
                         </div>
@@ -625,6 +697,7 @@
                     </div><!-- /.col-lg-2 -->
 
                 </div><!-- /.row -->
+
             </div><!-- /.container -->          
         </section><!-- /.flat-counter -->
 

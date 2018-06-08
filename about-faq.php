@@ -254,92 +254,10 @@
 					</div>
 				</div>
 			</section>
-
-			<footer id="footer">
-	            <div class="footer-widgets">
-	                <div class="container">
-	                    <div class="row widget-box">
-	                        <div class="col-lg-3 reponsive-mb30">
-	                            <div id="logo-footer" class="logo-footer">
-	                                <a href="index.php"><img src="images/logo.png" alt="logo ravita"></a>
-	                            </div>
-	                            <div class="widget widget-text">
-	                                <p>We have over 15 years of experien ble to help you 24 hours a day, 
-	                                </p>
-	                                <ul class="flat-infomation">
-	                                    <li class="address">PO Box 16122 Collins Street West Victoria 8007 Australia</li>
-	                                    <li class="phone"><a href="+61383766284" title="phone">(+61) ) 3 8376 6284</a></li>
-	                                    <li class="email"><a href="#" title="email"> support@themesflat.com</a></li>
-	                                </ul>   
-	                            </div><!-- /.widget-text -->
-	                        </div><!-- /.col-md-3 -->
-	                        <div class="col-lg-3 reponsive-mb30">
-	                            <div class="widget widget-services">
-	                                <h3 class="widget-title">Popular tags</h3>
-	                                <ul class="one-half first">
-	                                    <li><a href="#" title="">About Us</a></li>
-	                                    <li><a href="#" title="">Advertise</a></li>
-	                                    <li><a href="#" title="">Conditions</a></li>
-	                                    <li><a href="#" title="">Privacy Policy</a></li>
-	                                    <li><a href="#" title="">Careers</a></li>
-	                                    <li><a href="#" title="">Shop</a></li>
-	                                </ul><!-- /.one-half -->
-	                                <ul class="one-half">
-	                                    <li><a href="#" title="">Home</a></li>
-	                                    <li><a href="#" title="">Testimonials</a></li>
-	                                    <li><a href="#" title="">News</a></li>
-	                                    <li><a href="#" title="">Services</a></li>
-	                                    <li><a href="#" title="">Corporate Client</a></li>
-	                                    <li><a href="#" title="">Contact Us</a></li>
-	                                </ul><!-- /.one-half -->
-	                            </div><!-- /.widget-services -->
-	                        </div><!-- /.col-lg-3 -->
-	                        <div class="col-lg-3 reponsive-mb30">
-	                            <div class="widget widget-open">
-	                                <h3 class="widget-title">Open House</h3>
-	                                <p>Our support available to help you 24 hours a day, seven days a week.</p>
-	                                <ul class="time-open">
-	                                    <li>Monday - Friday: <span>09:00AM - 09:00PM</span></li>
-	                                    <li>Saturday: <span>09:00AM - 09:00PM</span></li>
-	                                    <li>Sunday: <span>Closed</span></li>
-	                                </ul>
-	                            </div>
-	                        </div>
-	                        <div class="col-lg-3">
-	                            <div class="widget widget-subscribe">
-	                                <h3 class="widget-title">New Letter</h3>
-	                                <p>Sign Up for our mailing list to get latest updates and news.</p>
-	                                <form id="subscribe-form" action="#" method="post" accept-charset="utf-8" data-mailchimp="true">
-	                                    <div id="subscribe-content">
-	                                        <div class="input-email">
-	                                            <input type="email" name="email-form" id="subscribe-email" placeholder="Your email address" />
-	                                        </div>
-	                                        <button type="button" id="subscribe-button" class="button-subscribe"><i class="fa fa-paper-plane-o"></i></button>
-	                                    </div>
-	                                    <div id="subscribe-msg"></div>
-	                                </form>
-	                            </div><!-- /.widget-subscribe -->
-	                        </div><!-- /.col-md-4 -->
-	                    </div><!-- /.row .widget-box -->
-	                </div><!-- /.container -->
-	            </div><!-- /.footer-widgets -->
-	            <div class="footer-bottom">
-	                <div class="container">
-	                    <div class="row">
-	                        <div class="col-md-12">
-	                            <div class="copyright">
-	                                <p>Coyright © 2018 <a href="https://themeforest.net/user/themesflat/portfolio" title="">Themesflat</a>. All rights reserved.</p>
-	                            </div>
-	                            <ul class="menu-footer">
-	                                <li><a href="#" title="">HOME</a></li>
-	                                <li><a href="#" title="">ABOUT US</a></li>
-	                                <li><a href="#" title="">BUY THEME NOW</a></li>
-	                            </ul><!-- /.menu-footer -->
-	                        </div>
-	                    </div>
-	                </div>
-	            </div><!-- /.footer-bottom -->
-	        </footer><!-- /#footer -->
+			
+			<?php
+            	include('includes/footer.php');
+			?>
 			
 			<div class="button-go-top">
 				<a href="#" title="" class="go-top">

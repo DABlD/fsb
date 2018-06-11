@@ -188,8 +188,8 @@
 						<div class="col-lg-6">
 							<div class="title-section left">
 	                            <h2>About our company</h2>
-	                            <p class="sub-title-section">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia</p>
-	                            <p class="sub-title-section">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in </p>
+	                            <p class="sub-title-section">Cloud-based accounting or simply known as “online accounting” where you can access your files and records anywhere at any time.</p>
+	                            <!-- <p class="sub-title-section">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in </p> -->
 	                        </div>
 
 	                        <div class="row">

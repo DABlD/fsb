@@ -27,6 +27,13 @@
     <link href="icon/apple-touch-icon-32-precomposed.png" rel="apple-touch-icon-precomposed">
     <!-- <link href="icon/favicon.png" rel="shortcut icon"> -->
 
+    <style>
+    	.align-justify{
+    		text-align: justify;
+    		text-indent: 20px;
+    	}
+    </style>
+
 </head>
 	<body>
 		<div class="boxed blog">
@@ -201,55 +208,135 @@
 								<div class="text">
 									<h3>We Offer</h3>
 								</div>
-								<div class="icon">
-									<div class="iconbox style4 clearfix">
+
+								<br>
+								<br>
+								<br>
+
+								<div class="row">
+									<div class="iconbox style4 clearfix col-md-4">
 			                            <div class="box-icon">
-			                                <i class="ion-ios-search-strong"></i>
+			                                <i class="ion-cloud"></i>
 			                            </div>
 			                            <div class="box-text">
-			                                <h5 class="box-title"><a href="#" title="">Section 1</a></h5>  
-			                                <div class="box-content">
-			                                     Lorem Ipsum ist ein einfacher Demo-Text für die Print- und Schriftindustrie. Lorem Ipsum ist in der Industrie bereits.
+			                                <h5 class="box-title"><a href="#" title="">Cloud (Online) Accounting & Bookkeeping</a></h5>  
+			                                <div class="box-content align-justify">
+			                                     Our Cloud Accounting and Bookkeeping team will provide all forms of accounting & bookkeeping services.
 			                                </div><!-- /.box-content --> 
 			                            </div>
 			                        </div>
-			                        <div class="iconbox style4 clearfix">
+			                        <div class="iconbox style4 clearfix col-md-4">
 			                            <div class="box-icon">
-			                                <i class="ion-ios-bookmarks-outline"></i>
+			                                <i class="ion-android-search"></i>
 			                            </div>
 			                            <div class="box-text">
-			                                <h5 class="box-title"><a href="#" title="">Section 3</a></h5>  
-			                                <div class="box-content">
-			                                     Lorem Ipsum ist ein einfacher Demo-Text für die Print- und Schriftindustrie. Lorem Ipsum ist in der Industrie bereits.
-			                                </div><!-- /.box-content --> 
+			                                <h5 class="box-title"><a href="#" title="">External and Internal Audit</a></h5>  
+			                                <div class="box-content align-justify">
+			                                     An objective examination and evaluation of the financial statements of an organization to make sure that the records are a fair and accurate representation of the transactions they claim to represent.
+			                                </div>
+			                            </div>
+			                        </div>
+									<div class="iconbox style4 clearfix col-md-4">
+			                            <div class="box-icon">
+			                                <i class="ion-ios-lightbulb"></i>
+			                            </div>
+			                            <div class="box-text">
+			                                <h5 class="box-title"><a href="#" title="">Business Advisory</a></h5>  
+			                                <div class="box-content align-justify">
+			                                     Our Business Advisory offers tailored, innovative and comprehensive solutions for specific client business needs. Our aim is to deliver focused value and beneficial change to your business.
+			                                </div>
+			                            </div>
+			                        </div>
+			                    </div>
+
+								<div class="row">
+			                        <div class="iconbox style4 clearfix col-md-4">
+			                            <div class="box-icon">
+			                                <i class="ion-cash"></i>
+			                            </div>
+			                            <div class="box-text">
+			                                <h5 class="box-title"><a href="#" title="">Tax Preparation</a></h5>  
+			                                <div class="box-content align-justify">
+			                                     Our team provide solution to wide array of tax related problems including preparation of monthly, quarterly or annual tax returns and submitting them in BIR.
+			                                </div>
+			                            </div>
+			                        </div>
+			                        <div class="iconbox style4 clearfix col-md-4">
+			                            <div class="box-icon">
+			                                <i class="ion-android-create"></i>
+			                            </div>
+			                            <div class="box-text">
+			                                <h5 class="box-title"><a href="#" title="">Business Registration (New / Renewal)</a></h5>  
+			                                <div class="box-content align-justify">
+			                                     Our business registration service includes everything from getting your trade names, barangay permits, mayors permits, registration in BIR and SEC. Including SSS, HDMF, & PHIC.
+			                                </div>
+			                            </div>
+			                        </div>
+			                        <div class="iconbox style4 clearfix col-md-4">
+			                            <div class="box-icon">
+			                                <i class="ion-android-cloud-done"></i>
+			                            </div>
+			                            <div class="box-text">
+			                                <h5 class="box-title"><a href="#" title="">Cloud-Based Accounting Software Training</a></h5>  
+			                                <div class="box-content align-justify">
+			                                     We offer Software training with the help of our Certified Pro Advisors which can help you boost your accounting skills in your own business. (Quickbooks Online & Xero).
+			                                </div>
 			                            </div>
 			                        </div>
 								</div>
-								<div class="icon">
-									<div class="iconbox style4 clearfix">
+
+								<div class="row">
+			                        <div class="iconbox style4 clearfix col-md-4">
 			                            <div class="box-icon">
-			                                <i class="ion-ios-pie-outline"></i>
+			                                <img style="background: #29c6d8;" src="icon/ios-school.svg">
 			                            </div>
 			                            <div class="box-text">
-			                                <h5 class="box-title"><a href="#" title="">Section 2</a></h5>  
-			                                <div class="box-content">
-			                                     Lorem Ipsum ist ein einfacher Demo-Text für die Print- und Schriftindustrie. Lorem Ipsum ist in der Industrie bereits.
-			                                </div><!-- /.box-content --> 
+			                                <h5 class="box-title"><a href="#" title="">Business Trainings & Seminars</a></h5>  
+			                                <div class="box-content align-justify">
+			                                     We offer accounting trainings for non-accountants for them to better understand how accounting works.
+			                                </div>
 			                            </div>
 			                        </div>
-			                        <div class="iconbox style4 clearfix">
+			                        <div class="iconbox style4 clearfix col-md-4">
 			                            <div class="box-icon">
-			                                <i class="ion-ios-briefcase-outline"></i>
+			                                <i class="ion-close-circled"></i>
 			                            </div>
 			                            <div class="box-text">
-			                                <h5 class="box-title"><a href="#" title="">Section 4</a></h5>  
-			                                <div class="box-content">
-			                                     Lorem Ipsum ist ein einfacher Demo-Text für die Print- und Schriftindustrie. Lorem Ipsum ist in der Industrie bereits.
-			                                </div><!-- /.box-content --> 
+			                                <h5 class="box-title"><a href="#" title="">Business Closure</a></h5>  
+			                                <div class="box-content align-justify">
+			                                     We provide service to help you on closing your business on various government agencies.
+			                                </div>
+			                            </div>
+			                        </div>
+			                        <div class="iconbox style4 clearfix col-md-4">
+			                            <div class="box-icon">
+			                                <i class="ion-ios-paper"></i>
+			                            </div>
+			                            <div class="box-text">
+			                                <h5 class="box-title"><a href="#" title="">Business Plan Preparation</a></h5>  
+			                                <div class="box-content align-justify">
+			                                     Business Plan Preparation. Feasibility Study.
+			                                </div>
 			                            </div>
 			                        </div>
 								</div>
+
+								<div class="row">
+			                        <div class="iconbox style4 clearfix col-md-4">
+			                            <div class="box-icon">
+			                                <i class="ion-ios-people"></i>
+			                            </div>
+			                            <div class="box-text">
+			                                <h5 class="box-title"><a href="#" title="">Staff Augmentation</a></h5>  
+			                                <div class="box-content align-justify">
+			                                     Outsourcing.
+			                                </div>
+			                            </div>
+			                        </div>
+								</div>
+
 							</div>
+
 							<div class="flat-accordion">
 	                            <div class="flat-toggle">
 	                                <div class="toggle-title">Auto and home insurance</div>

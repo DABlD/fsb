@@ -58,20 +58,21 @@
                     </div><!-- /.row .widget-box -->
                 </div><!-- /.container -->
             </div><!-- /.footer-widgets -->
-            <div class="footer-bottom">
+
+            <!-- <div class="footer-bottom">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
                             <div class="copyright">
-                                <p>Coyright © 2018 <a href="https://themeforest.net/user/themesflat/portfolio" title="">Themesflat</a>. All rights reserved.</p>
+                                <p>Coyright © <?php echo date('Y') ?> <a href="https://themeforest.net/user/themesflat/portfolio" title="">FSB Consultants Inc</a>. All rights reserved.</p>
                             </div>
                             <ul class="menu-footer">
-                                <li><a href="#" title="">HOME</a></li>
-                                <li><a href="#" title="">ABOUT US</a></li>
-                                <li><a href="#" title="">BUY THEME NOW</a></li>
-                            </ul><!-- /.menu-footer -->
+                                <li><a href="index.php" title="">HOME</a></li>
+                                <li><a href="about.php" title="">ABOUT US</a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
-            </div><!-- /.footer-bottom -->
+            </div> -->
+            
         </footer><!-- /#footer -->

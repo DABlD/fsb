@@ -195,8 +195,10 @@
 										<i class="icon-phone"></i>
 									</div>
 									<div class="content">
-									 	<h2>+61 3 8376 6284</h2>
-									 	<p>+61 3 8773 6224</p>
+									 	<h2>+63 46 416 6864</h2>
+									 	<h2>+63 46 540 6162 (Globe)</h2>
+									 	<h2>0920-901-9188 (Smart)</h2>
+									 	<!-- <p>+61 3 8773 6224</p> -->
 									</div>
 								</div>
 
@@ -205,8 +207,8 @@
 										<i class="icon-map"></i>
 									</div>
 									<div class="content">
-									 	<h2>PO Box 16122 Collins Street</h2>
-									 	<p>West Victoria 8007 Australia</p>
+									 	<h2>Unit 45 The District Dasmariñas</h2>
+									 	<p>Ayala Malls, Dasmariñas City, Cavite</p>
 									</div>
 								</div>
 
@@ -215,8 +217,8 @@
 										<i class="icon-envelope"></i>
 									</div>
 									<div class="content">
-									 	<h2>themesflat@gmail.com</h2>
-									 	<p>marketer.tf@gmail.com</p>
+									 	<h2>fsb_accountserv@yahoo.com</h2>
+									 	<!-- <p>marketer.tf@gmail.com</p> -->
 									</div>
 								</div>
 							</div>
@@ -277,7 +279,7 @@
 								<div class="title-section">
 									<h2>Get in touch</h2>
 								</div><!-- /.title-section -->
-								<form id="contactform"  method="post" action="./contact/contact-process2.php" novalidate="novalidate" class="form-info style2">
+								<form id="contactform"  method="post" action="./contact/contact-process.php" novalidate="novalidate" class="form-info style2">
 									<div class="wrap-input clearfix">
 										<p class="input-info"><input type="text" name="name" id="name" value="" placeholder="Your name *" required="required"></p>
 										<p class="input-info"><input type="text" name="email" id="email" value="" placeholder="Email Address*" required="required"></p>
@@ -294,7 +296,7 @@
 
 			<!-- map -->
 	        <section class="pdmap">
-				<div class="flat-maps" data-address="Old Possum Park Road, Newark, Delaware, Hoa Kỳ" data-height="350" data-images="images/map/map-1.png" data-name="Ravita Map"></div>
+				<div class="flat-maps" data-address="The District Dasmariñas, Molino - Paliparan Road, Salawag, Dasmariñas, Cavite" data-height="350" data-images="images/map/map-1.png" data-name="Ravita Map"></div>
 	            <div class="gm-map">	            
 	                <div class="map"></div>                        
 	            </div>

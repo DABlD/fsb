@@ -1,57 +1,37 @@
 <?php
+	include '../phpmailer/PHPMailerAutoload.php';
 
-// define("WEBMASTER_EMAIL", 'themesflat@gmail.com');
-//$address = "example@themeforest.net";
-$address = "themesflat@gmail.com";
-if (!defined("PHP_EOL")) define("PHP_EOL", "\r\n");
+	$gmailUsername = "davidmendozaofficial@gmail.com";
+	$gmailPassword = "FroztByte04\m/";
 
-$error = false;
-$fields = array( 'name', 'email', 'message', 'phone' );
+    $mail = new PHPMailer();
+    $mail->IsSMTP();
+    $mail->SMTPAuth = true;
+    $mail->SMTPSecure = 'ssl';
+    $mail->Host = "smtp.gmail.com";
+    $mail->Port = 465; // or 587
+    $mail->IsHTML(true);
+    $mail->Username = $gmailUsername;
+    $mail->Password = $gmailPassword;
+    $mail->SetFrom($gmailUsername, "FSB Consultants Inc.");
+    $mail->Subject = "Inquiries";
 
-foreach ( $fields as $field ) {
-	if ( empty($_POST[$field]) || trim($_POST[$field]) == '' )
-		$error = true;
-}
+    // EMAIL
+    $mail->Body = '
+		<b>From: </b> ' . $_POST['name'] . '<br>
+		<b>Email: </b> ' . $_POST['email'] . '<br>
+		<b>Phone: </b> ' . $_POST['phone'] . '<br>
+		<b>Message: </b> ' . $_POST['message'] . '<br>
+    ';
 
-if ( !$error ) {
-
-	$name = stripslashes($_POST['name']);
-	$email = trim($_POST['email']);
-	$phone = stripslashes($_POST['phone']);		
-	$message = stripslashes($_POST['message']);
-	
-	$e_subject = 'You\'ve been contacted by ' . $name . '.';
-
-	// Configuration option.
-	// You can change this if you feel that you need to.
-	// Developers, you may wish to add more fields to the form, in which case you must be sure to add them here.
-
-	$e_body = "You have been contacted by: $name" . PHP_EOL . PHP_EOL;
-	$e_reply = "E-mail: $email" . PHP_EOL . PHP_EOL;
-	$e_phone = "\r\nPhone: $phone" . PHP_EOL . PHP_EOL;
-	$e_content = "Message:$message" . PHP_EOL . PHP_EOL;
-
-	$msg = wordwrap( $e_body . $e_reply .$e_phone .$e_content, 70 );
-
-	$headers = "From: $email" . PHP_EOL;
-	$headers .= "Reply-To: $email" . PHP_EOL;
-	$headers .= "Phone: $phone" . PHP_EOL;
-	$headers .= "MIME-Version: 1.0" . PHP_EOL;
-	$headers .= "Content-type: text/plain; charset=utf-8" . PHP_EOL;
-	$headers .= "Content-Transfer-Encoding: quoted-printable" . PHP_EOL;
-
-	if(mail($address, $e_subject, $msg, $headers)) {
-
-		// Email has sent successfully, echo a success page.
-
-		echo 'Success';
-
-	} else {
-
-		echo 'ERROR!';
-
-	}
-
-}
-
+    // KUNG SINO MAKAKA RECEIVE NG EMAIL
+    $mail->AddAddress('davidmendozaofficial@gmail.com');
+    
+    if (!$mail->Send()) 
+    {
+    	echo "ERROR!";
+    } 
+    else {
+        echo "Success";
+    }
 ?>

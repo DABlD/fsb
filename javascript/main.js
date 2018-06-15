@@ -162,6 +162,8 @@
                         str = $form.serialize(),
                         loading = $('<div />', { 'class': 'loading' });
 
+                    console.log('sending');
+
                     $.ajax({
                         type: "POST",
                         url:  $form.attr('action'),
@@ -170,8 +172,10 @@
                             $form.find('.form-submit').append(loading);
                         },
                         success: function( msg ) {
+                            console.log(msg);
                             var result, cls;                            
-                            if ( msg === 'Success' ) {result = 'Message Sent Successfully To Email Administrator. ( You can change the email management a very easy way to get the message of customers in the user manual )'; cls = 'msg-success'; } else {result = 'Error sending email.'; cls = 'msg-error'; } $form.prepend(
+                            // if ( msg === 'Success' ) {result = 'Message Sent Successfully To Email Administrator. ( You can change the email management a very easy way to get the message of customers in the user manual )'; cls = 'msg-success'; } else {result = 'Error sending email.'; cls = 'msg-error'; } $form.prepend(
+                            if ( msg === 'Success' ) {result = 'Message Sent Successfully To Management.'; cls = 'msg-success'; } else {result = 'Error sending email.'; cls = 'msg-error'; } $form.prepend(
                                 $('<div />', {
                                     'class': 'flat-alert ' + cls,
                                     'text' : result

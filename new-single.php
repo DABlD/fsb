@@ -137,13 +137,6 @@
 										</li>
 
 										<li>
-											<a href="#" title="">pages  <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-											<ul class="sub-menu">
-												<li><a href="page-pricing.php" title="">Page Pricing</a></li>
-											</ul><!-- /.sub-menu -->
-										</li>
-
-										<li>
 											<a href="contact-v1.php" title="">Contact us <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 											<ul class="sub-menu">
 												<li><a href="contact-v1.php" title="">Contact 01</a></li>

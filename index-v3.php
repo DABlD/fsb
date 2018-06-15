@@ -115,7 +115,7 @@
                                 </div><!-- //mobile menu button -->
                             <div class="flat-show-search">
                                 <div class="show-search">
-                                    <a href="#"><i class="fa fa-search"></i></a>                                             
+                                    <!-- <a href="#"><i class="fa fa-search"></i></a> -->                                             
                                 </div>
                                 <div class="top-search">                        
                                     <form action="#" id="searchform-all" method="get">
